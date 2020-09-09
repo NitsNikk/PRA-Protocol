@@ -1,6 +1,6 @@
-# Rebased 2
+# Perodic Rebase Assets (PRA)
 
-Rebased is a trustless elastic supply currency that adjusts its supply without reliance on external price feeds. It is a fork of the [uFragments protocol](https://github.com/ampleforth/uFragments). Version 2 adds protection features such as atomic notfication of liqudity pools of balance changes.
+PRA is a trustless elastic supply currency that adjusts its supply without reliance on external price feeds. It is a fork of the [uFragments protocol](https://github.com/ampleforth/uFragments). Version 2 adds protection features such as atomic notfication of liqudity pools of balance changes.
 
 ## Test environment
 
